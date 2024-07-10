@@ -1,3 +1,3 @@
 # ConQt
-not be alble to push file due to errors
+not be able to push file due to errors
 
